@@ -1,0 +1,29 @@
+body {
+  background-color: #fff2be;
+  text-align: center;
+  color: #402a23;
+  font-family: monospace;
+}
+
+a {
+  color: #0c005a;
+  text-decoration: none;
+  font-weight: bold;
+  margin-left: 30px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+p {
+  font-size: 18px;
+}
+
+img {
+  max-width: 300px;
+}
+
+.links {
+    font-size: 18px;
+}
